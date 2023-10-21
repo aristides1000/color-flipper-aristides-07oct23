@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Uneweb-blue)
 
-# Project Name
+# color flipper
 
 > One paragraph statement about the project.
 
@@ -16,14 +16,13 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://aristides1000.github.io/color-flipper-aristides-07oct23/)
 
 
 ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
@@ -39,21 +38,13 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
-
-
-## Authors
+## Author
 
 👤 **Arístides José Molina Pérez**
 
 - GitHub: [@aristides1000](https://github.com/aristides1000)
 - Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
